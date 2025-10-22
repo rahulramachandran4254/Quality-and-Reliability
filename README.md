@@ -1,8 +1,8 @@
-# Quality-and-Reliability
-# Quality Management Project
-(Simulated Quality & Reliability Analysis Project)
 
-#  East Bay Aerospace – Quality & Reliability Analysis 
+# Quality Management Project
+(Simulated Data Analysis Project)
+
+# East Bay Aerospace – Quality & Reliability Analysis 
 
 **Tools Used:** Excel, Minitab  
 **Files in Repository:**  
@@ -66,6 +66,7 @@ Determine whether paper material type affects flight distance.
 - Tool: Excel  
 
 📈 **t-tEST**  
+
 ![t-Test](t-Test.png)
 
 ### **Dataset Summary**
